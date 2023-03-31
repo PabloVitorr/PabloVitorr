@@ -1,10 +1,11 @@
-### Olá eu sou o Pablo Vitor e esse é o meu perfil no GitHub!
+# Olá eu sou o Pablo Vitor e esse é o meu perfil no GitHub!
 
-# Estudando neste momento 🔭:
+## 🎓 Estudando neste momento:
 
 - SUP. TEC. Análise e Desenvolvimento de Sistemas
 - CSharp
 - MySQL
+- UI/UX Design
 
 <div align="center">
   <a href="https://github.com/pablovitorr">
