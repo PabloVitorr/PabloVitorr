@@ -1,6 +1,6 @@
-#Olá!👋 Seja bem vindo(a) ao meu perfil GitHub!
+# Olá!👋 Seja bem vindo(a) ao meu perfil GitHub!
 
-##🎓 Estudando neste momento:
+## 🎓 Estudando neste momento:
 
 - SUP. TEC. Análise e Desenvolvimento de Sistemas
 - CSharp
