@@ -4,7 +4,6 @@
 
 - SUP. TEC. Análise e Desenvolvimento de Sistemas
 - CSharp
-- MySQL
 - Microsoft SQL Server
 - UI/UX Design
 
