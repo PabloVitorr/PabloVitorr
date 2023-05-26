@@ -5,6 +5,7 @@
 - SUP. TEC. Análise e Desenvolvimento de Sistemas
 - CSharp
 - Microsoft SQL Server
+- PostgreSQL
 - UI/UX Design
 
 <div align="center">
