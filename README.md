@@ -3,7 +3,8 @@
 ## 🎓 Estudando neste momento:
 
 - SUP. TEC. Análise e Desenvolvimento de Sistemas
-- CSharp
+- python
 - PostgreSQL
 - HTML/CSS
+- JavaScript
 - UI/UX Design
