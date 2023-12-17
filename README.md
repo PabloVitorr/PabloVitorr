@@ -3,7 +3,7 @@
 ## 🎓 Estudando neste momento:
 
 - SUP. TEC. Análise e Desenvolvimento de Sistemas
-- python
+- Python
 - PostgreSQL
 - HTML/CSS
 - JavaScript
