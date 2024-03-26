@@ -1,9 +1,5 @@
-# Olá!👋 Seja bem vindo(a) ao meu perfil no GitHub!
-
-## 🎓 Estudando neste momento:
-
-- SUP. TEC. Análise e Desenvolvimento de Sistemas
-- PostgreSQL
-- HTML/CSS
-- JavaScript
-- UI/UX Design
+<table>
+  <a href="https://github.com/pablovitorr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloVitorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVitorr&layout=compact&langs_count=6&theme=dracula"/>
+</table>
